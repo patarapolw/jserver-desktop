@@ -1,0 +1,10 @@
+{
+  "title": "Rep2Recall",
+  "server": [
+    "java",
+    "-jar",
+    "/Users/patarapolw/IdeaProjects/r2r/dist/r2r-1.0-all.jar"
+  ],
+  "port": 24000,
+  "maximized": true
+}
